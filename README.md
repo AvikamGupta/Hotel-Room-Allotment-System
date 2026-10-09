@@ -362,8 +362,11 @@ These enhancements are outside the scope of the current implementation.
 
 ## 17. Author
 
-**Avikam Gupta**
+**A Group Project By**
+
+**Avikam Gupta,Chandan Yadav,Yuvraj Singh,Archishmit Sudheer Wanghmare**
 Registration number-26BCE11198
+Registration number-26BCE11351
 B.Tech CSE Core
 VIT Bhopal University
 
